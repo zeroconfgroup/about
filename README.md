@@ -4,6 +4,9 @@ Zero-configuration networking (zeroconf) is a methodology and a set of special t
 
 We want to build on that idea, and create systems that let people connect with each other and share resources automatically and instantly, wherever they are within the physical network of cities and edge-cities.
 
+Use computers less, using more computers. 
+
+
 
 
 
